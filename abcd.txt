@@ -1,1 +1,2 @@
 teste conflito 1
+conflito 2
